@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>damka_bialy_czarny.png</file>
+        <file>damka_czarny_czarny.png</file>
+        <file>pion_bialy_czarny.png</file>
+        <file>pion_czarny_czarny.png</file>
+        <file>pole_bialy.png</file>
+        <file>pole_czarny.png</file>
+    </qresource>
+</RCC>
